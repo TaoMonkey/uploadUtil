@@ -1,0 +1,16 @@
+陪聊人员	陪聊人员发出信息总条数	大于5小于10分钟回复	大于5大于10分钟回复	小于5	触及到的用户ID总数	权重计算总数
+abodullaegypt1	520	43	0	59	102	939
+admin	25	2	0	14	16	67
+ahmedegypt1	45	1	0	24	25	100
+chatting01	195	14	0	24	38	341
+fangtao	7	1	0	4	5	22
+hanxin	69	2	0	34	36	151
+luhuajun	5	0	0	4	4	13
+maiwu	15	2	0	7	9	43
+mohammedegypt1	190	9	0	29	38	311
+mona	11	2	0	7	9	39
+rashadegypt1	176	11	0	25	36	303
+xiaoxiaohe	90	8	0	46	54	238
+yanjinlong	14	0	0	9	9	32
+yaseregypt1	618	51	0	69	120	1113
+yousefegypt1	404	24	0	59	83	690
