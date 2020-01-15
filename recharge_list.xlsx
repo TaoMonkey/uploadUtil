@@ -1,0 +1,4 @@
+id	uid	order	order_status	money	day_str	created	updated	gift_detail
+40	12421943	202001151018032926	2	6061	2020-01-15	2020-01-15 10:18:03	2020-01-15 10:18:03	[{"type":1,"svga_animation_res_id":0,"svga_common_res_id":0,"resource_id":250300000,"expire":"2020-02-14T10:18:03.560685855+04:00","total":1}]
+41	12478818	202001151018032927	2	20000	2020-01-15	2020-01-15 10:18:03	2020-01-15 10:18:03	[{"type":3,"svga_animation_res_id":0,"svga_common_res_id":0,"resource_id":226,"expire":"2020-01-22T10:18:03.582999478+04:00","total":1},{"type":1,"svga_animation_res_id":0,"svga_common_res_id":0,"resource_id":250400000,"expire":"2020-02-14T10:18:03.583001825+04:00","total":1}]
+42	12482757	202001151018032928	2	9999	2020-01-15	2020-01-15 10:18:03	2020-01-15 10:18:03	[{"type":1,"svga_animation_res_id":0,"svga_common_res_id":0,"resource_id":250300000,"expire":"2020-02-14T10:18:03.610911859+04:00","total":1}]
